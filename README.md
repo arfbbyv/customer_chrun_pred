@@ -62,7 +62,6 @@ README.md            # Project description
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- XGBoost (if used)
 - CatBoost (if used)
 
 ---
@@ -172,7 +171,6 @@ README.md            # Описание проекта
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- XGBoost (если используется)
 - CatBoost (если используется)
 
 ---
@@ -218,4 +216,4 @@ README.md            # Описание проекта
 
 ## Автор
 
-Arif Magamedov
+Arif Babayev
